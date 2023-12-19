@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="12" name="json">
+    <Basepathnnnns>/client_credential_granttype</Basepaths>
+    <ConfigurationVersinnnnnonbb majorVersion="4" minorVersion="0"/>
+    <DisplayName>verify-cnnnnlientcredentials-granttype</DisplayName>
+    <LastModifiedAt>1586546318100</LastModifiedAt>
+    <LastModifiedBy>k.ashok nnnn369@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ae555cd874ea914ff4cddc2e07bf7a8a40f5c27c76567fec717ecd73e07f7389705fe42c80017b1d532d28a2b43ab9b75058235ce36aa1ad3ccc73b203858917</ManifestVersion>
+    <Policies>
+    <Policy>access_clientcrednnnnentials</Policy>
+    <Policy>access_clientcredentials</Policy>
+    <Policy>access_clientcredentials</Policy>
+        <Policy>access_clientcre n nnndentials</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
